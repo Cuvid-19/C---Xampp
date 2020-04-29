@@ -13,10 +13,16 @@ Employee - request OT and Leave
 Supervisor - approve or request OT, approve leave
 
 
+please import 'inforecord.sql' to xampp befaore you run the application
+
 
 ps. Lots of uncompleted code needed to fix. Still new to this.
 
+
+	 
+
 ***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT  *****  
-
-
 ***** LEAVE A COMMENT IF YOU LOVED THE WORK *****
+****
+***
+*
