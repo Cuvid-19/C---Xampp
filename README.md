@@ -12,7 +12,7 @@ In this application, there are 2 status: Employee , Supervisor
 Employee - request OT and Leave
 Supervisor - approve or request OT, approve leave
 
-
+***
 please import 'inforecord.sql' to xampp befaore you run the application
 
 
